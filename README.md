@@ -1,3 +1,8 @@
+## PPL Labworks
 ### Name : Bisham Neupane
-### Id : 211624
-### Faculty : Software Engineering/Morning/6th Semester
+### Roll No.: 211624
+### Email: bisham.211624@ncit.edu.np
+| SN | Title                        | Date        | Remarks |
+|----|------------------------------|-------------|---------|
+| 1  | Familiarization with FORTRAN | 24 Nov 2024 |         |
+|    |                              |             |         |
